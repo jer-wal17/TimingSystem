@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TimingSystem.Library/TimingSystem.Library.csproj" />
+  <Project Path="TimingSystem.Runtime/TimingSystem.Runtime.csproj" />
+</Solution>
